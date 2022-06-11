@@ -1,0 +1,1 @@
+schoolInfoTwo.printInfo();
