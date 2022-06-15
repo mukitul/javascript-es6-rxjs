@@ -18,3 +18,8 @@ errorHandling  -- catchError
 
 
 ignoreElements
+
+
+[learnrxjs.io](https://www.learnrxjs.io/)
+
+[indepth.dev](https://indepth.dev/reference/rxjs/operators)
