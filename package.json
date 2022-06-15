@@ -1,0 +1,22 @@
+{
+  "name": "javascript-es6-rxjs",
+  "version": "1.0.0",
+  "description": "explore javascprit-es6, rxjs etc",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukitul/javascript-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukitul/javascript-es6/issues"
+  },
+  "homepage": "https://github.com/mukitul/javascript-es6#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
