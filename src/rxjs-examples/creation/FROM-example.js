@@ -24,6 +24,30 @@ from operator works in the following way:
 
 
 const source = from("mukitul");
-const subscribe = source.subscribe((val) => {
-    console.log("VALUE: ", val);
+source.subscribe((val) => {
+      console.log("VALUE: ", val);
+});
+
+// thow error because from operator only reaceive array, promise, string or any iterables
+// const objectSource = from({ name: "mukitul", address: "Dhaka" });
+// objectSource.subscribe((val) => {
+//       console.log("VALUE: ", val);
+// });
+
+
+
+const apiCall = async () => {
+
+      return await new Promise((resolve, reject) => {
+            setTimeout(resolve, 2000, { name: "mukitul", address: "Dhaka" });
+      }).catch((err) => {
+            console.log("ERROR: ", err);
+            throw new Error("ERROR " + err);
+      })
+
+}
+
+const promiseSource = from(apiCall());
+promiseSource.subscribe((val) => {
+      console.log("VALUE: ", val);
 });
