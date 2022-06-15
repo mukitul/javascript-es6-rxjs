@@ -9,8 +9,11 @@
 category: combination, coditional, creation, errorHandling, filtering, multicasting, transformation, utility
 
 combination    -- merge, mergeAll
+
 creation       -- of, from
+
 transformation -- map, mergeMap
+
 errorHandling  -- catchError
 
 
