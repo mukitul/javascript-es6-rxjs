@@ -3,7 +3,7 @@ practice project for learning modern javascript syntax (es6) and reactive progra
 
 ## JavaScript-ES6
 
-- [Regular Function vs Arrow Function](function-and-arrow-function.js)
+- [Regular Function vs Arrow Function](./src/es6-practice/function-and-arrow-function.js)
 
 
 ## RxJS
