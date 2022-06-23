@@ -38,11 +38,11 @@ const apiCallThree = async () => {
 }
 
 //no error handling
-const sourceOne = forkJoin({
-    api_one: apiCallOne(),
-    api_two: apiCallTwo(),
-    api_three: apiCallThree()
-});
+const sourceOne = forkJoin([
+    apiCallOne(),
+    apiCallTwo(),
+    apiCallThree()
+]);
 
 sourceOne.subscribe((val) => {
     console.log("NO_ERROR_HANDLING | VAL: ", val);
