@@ -6,6 +6,7 @@ practice project for learning modern javascript syntax (es6) and reactive progra
 - [Regular Function vs Arrow Function](./src/es6-practice/function-and-arrow-function.js)
 - [Truthy And Falsy In JavaScript](./src/es6-practice/truthy-and-falsy.js)
 - [Ternary Operator In JavaScript](./src/es6-practice/ternary-operator.js)
+- [Find Function In JavaScript](./src/es6-practice/array-find-function.js)
 
 
 ## RxJS
