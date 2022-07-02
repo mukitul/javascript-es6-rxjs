@@ -1,14 +1,19 @@
 # javascript-es6-rxjs
 practice project for learning modern javascript syntax (es6) and reactive programming using rxjs.
 
-## JavaScript-ES6
+## JavaScript(ES6) Examples
 
 - [Regular Function vs Arrow Function](./src/es6-practice/function-and-arrow-function.js)
 - [Truthy And Falsy In JavaScript](./src/es6-practice/truthy-and-falsy.js)
 - [Ternary Operator In JavaScript](./src/es6-practice/ternary-operator.js)
-- [Find Function In JavaScript](./src/es6-practice/array-find-function.js)
-- [Find_Index Function In JavaScript](./src/es6-practice/array-findIndex-function.js)
-
+- [Find Function In JavaScript](./src/es6-practice/find-function.js)
+- [Find_Index Function In JavaScript](./src/es6-practice/findIndex-function.js)
+- [Filter Function In JavaScript](./src/es6-practice/filter-function.js)
+- [Slice Function In JavaScript](./src/es6-practice/slice-function.js)
+- [Splice Function In JavaScript](./src/es6-practice/splice-function.js)
+- [Concat and Push Function In JavaScript](./src/es6-practice/concat-and-push-function.js)
+- [Map Function In JavaScript](./src/es6-practice/map-function.js)
+- [String related Functions in JS (W3School)](https://www.w3schools.com/jsref/jsref_obj_string.asp)
 
 ## RxJS
 ### Operator Function Category
