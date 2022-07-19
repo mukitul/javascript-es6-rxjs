@@ -14,6 +14,7 @@ practice project for learning modern javascript syntax (es6) and reactive progra
 - [Concat and Push Function In JavaScript](./src/es6-practice/concat-and-push-function.js)
 - [Map Function In JavaScript](./src/es6-practice/map-function.js)
 - [Reduce Function In JavaScript](./src/es6-practice/reduce-function.js)
+- [Double Equal & Triple Equal Example In JavaScript](./src/es6-practice/equality-check-example.js)
 - [String related Functions in JS (W3School)](https://www.w3schools.com/jsref/jsref_obj_string.asp)
 
 ## RxJS
