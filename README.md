@@ -13,6 +13,7 @@ practice project for learning modern javascript syntax (es6) and reactive progra
 - [Splice Function In JavaScript](./src/es6-practice/splice-function.js)
 - [Concat and Push Function In JavaScript](./src/es6-practice/concat-and-push-function.js)
 - [Map Function In JavaScript](./src/es6-practice/map-function.js)
+- [Reduce Function In JavaScript](./src/es6-practice/reduce-function.js)
 - [String related Functions in JS (W3School)](https://www.w3schools.com/jsref/jsref_obj_string.asp)
 
 ## RxJS
