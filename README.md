@@ -1,6 +1,16 @@
 # javascript-es6-rxjs
 practice project for learning modern javascript syntax (es6) and reactive programming using rxjs.
 
+## javascript version
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+
+ECMAScript is the official name of the language.
+
+ECMAScript versions have been abbreviated to ES1, ES2, ES3, ES5, and ES6.
+
+Since 2016, versions are named by year (ECMAScript 2016, 2017, 2018, 2019, 2020).
+
+
 ## JavaScript(ES6) Examples
 
 - [Regular Function vs Arrow Function](./src/es6-practice/function-and-arrow-function.js)
@@ -16,6 +26,11 @@ practice project for learning modern javascript syntax (es6) and reactive progra
 - [Reduce Function In JavaScript](./src/es6-practice/reduce-function.js)
 - [Double Equal & Triple Equal Example In JavaScript](./src/es6-practice/equality-check-example.js)
 - [String related Functions in JS (W3School)](https://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+## Promise/Async/Await
+
+- [Async/Await & Promise](./src/async-await-callback/async-await-example.js)
+
 
 ## RxJS
 ### Operator Function Category
